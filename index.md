@@ -53,7 +53,7 @@ In order to have a computing functionality, we will represent any mathematical o
    ex:   3          +         9
 ```
 
-```c++
+```
 ikhjbdsabads
 fd
 d
