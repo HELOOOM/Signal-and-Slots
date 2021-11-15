@@ -14,22 +14,24 @@ This exercise follows up to add interactive functionality to the calculator widg
  
  -  [**Main-Class**](#main-class)
  
- -  [**Dialog1 Result**](#dialog1_result)
- 
- -  [**Dialog2**](#dialog2)
-
--  [**Dialog2 Result**](#dialog2_result)
-
- -  [**Dialog3**](#dialog3)
-
--  [**Dialog3 Result**](#dialog3_result)
-
  -  [**Calculator**](#calculator)
+ 
+ -  [****](#)
 
--  [**Calculator_Result**](#calculator_result)
+-  [****](#)
+
+ -  [****](#)
+
+-  [****](#)
+
+ -  [****](#)
+
+-  [****](#)
 -  
 # Calculator-Interface
 ![Image](Finterface.png)
+
+For now our `application` has no reactivity. The goal of the rest of the section is to obtain step/step a fully functional widget.
 
 # Main-Class
 
@@ -43,6 +45,12 @@ int main(int argc, char *argv[])
     w.show();
     return a.exec();
 }
+```
+# Calculator
+In order to have a computing functionality, we will represent any mathematical operation by:
+```
+                                               left   (operation)  right
+                                           ex:  3          +         9
 ```
 
 
