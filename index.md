@@ -15,7 +15,7 @@ This exercise follows up to add interactive functionality to the calculator widg
  
  -  [**Calculator**](#calculator)
   
- -  [**Functionnalites-of-each-button**](#functionnalites-of-each-button)
+ -  [**Functionnalites-of-each-components**](#functionnalites-of-each-components)
  
 # Calculator-Interface
 
@@ -274,4 +274,5 @@ void Calculator::keyPressEvent(QKeyEvent *e)
         newDigitCL(e);
 }
 ```
-## Functionnalites-of-each-button
+## Functionnalites-of-each-components
+![Image](Finterface.png)
