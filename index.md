@@ -16,6 +16,7 @@ This exercise follows up to add interactive functionality to the calculator widg
  -  [**Calculator**](#calculator)
  
 # Calculator-Interface
+
 ![Image](Finterface.png)
 
 For now our `application` has no reactivity. The goal of the rest of the section is to obtain step/step a fully functional widget.
