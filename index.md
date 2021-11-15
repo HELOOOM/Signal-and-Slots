@@ -1,4 +1,3 @@
-
 # Signals and slots
 
 ## Definition
@@ -16,18 +15,6 @@ This exercise follows up to add interactive functionality to the calculator widg
  
  -  [**Calculator**](#calculator)
  
- -  [****](#)
-
--  [****](#)
-
- -  [****](#)
-
--  [****](#)
-
- -  [****](#)
-
-
-
 # Calculator-Interface
 ![Image](Finterface.png)
 
