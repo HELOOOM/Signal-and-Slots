@@ -26,8 +26,8 @@ This exercise follows up to add interactive functionality to the calculator widg
 
  -  [****](#)
 
--  [****](#)
--  
+
+
 # Calculator-Interface
 ![Image](Finterface.png)
 
@@ -49,8 +49,8 @@ int main(int argc, char *argv[])
 # Calculator
 In order to have a computing functionality, we will represent any mathematical operation by:
 ```
-                                               left   (operation)  right
-                                           ex:  3          +         9
+        left   (operation)  right
+   ex:   3          +         9
 ```
 
 
