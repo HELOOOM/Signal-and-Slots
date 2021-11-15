@@ -30,4 +30,16 @@ This exercise follows up to add interactive functionality to the calculator widg
 
 # Main-Class
 
+```c++
+int main(int argc, char *argv[])
+{
+    QApplication a(argc, argv);
+    Calculator w;
+    w.setWindowTitle("Calculator");
+    w.resize(250,250);
+    w.show();
+    return a.exec();
+}
+```
+
 
