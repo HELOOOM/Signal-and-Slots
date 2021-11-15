@@ -10,8 +10,24 @@ Signals and slots are used for communication between objects. The signals and sl
 This exercise follows up to add interactive functionality to the calculator widgets written in the previous homework. The goal is to use Signals and Slots to simulate a basic calculator behavior. The supported operations are *, +, -, /
 
 
+ -  [**Main-Class**](#main-class)
+ 
+ 
+ -  [**Dialog1 Result**](#dialog1_result)
+ 
+ -  [**Dialog2**](#dialog2)
+
+-  [**Dialog2 Result**](#dialog2_result)
+
+ -  [**Dialog3**](#dialog3)
+
+-  [**Dialog3 Result**](#dialog3_result)
+
+ -  [**Calculator**](#calculator)
+
+-  [**Calculator_Result**](#calculator_result)
 
 
-
+# Main-Class
 
 
