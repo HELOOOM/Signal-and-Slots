@@ -281,6 +281,6 @@ void Calculator::keyPressEvent(QKeyEvent *e)
 
 # Div-By-Zero
 
-## **Example**
+- ## **Example**
 ![Image](Merror.png)
 
