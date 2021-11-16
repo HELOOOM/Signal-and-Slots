@@ -1,6 +1,6 @@
 
 ```
-   By: Lakhmiri / Sakassa / Benzemroun
+By: Lakhmiri / Sakassa / Benzemroun
 ```
 # Signals and slots
 
