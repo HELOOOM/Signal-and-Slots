@@ -275,4 +275,4 @@ void Calculator::keyPressEvent(QKeyEvent *e)
 }
 ```
 ## Functionnalites-of-each-components
-![Image](Finterface.png)
+![Image](fonctionalite.png)
