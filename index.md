@@ -1,3 +1,7 @@
+
+```
+                                 By: Lakhmiri / Sakassa / Benzemroun
+```
 # Signals and slots
 
 ## Definition
